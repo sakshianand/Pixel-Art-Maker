@@ -1,6 +1,8 @@
 # Pixel-Art-Maker Project
 ---
-Using this game user can make grid of any width and height.They can use this grig to draw any Pixel art.
+Using this web app user can make grid of any width and height.
+They can use this grid to draw any Pixelated art.
+
 This game was built as one of the Projects in Udacity Frontend Nanodegree Program
 
 ## Technologies used

@@ -1,3 +1,4 @@
+const t0= performance.now();
 const sizepicker = document.getElementById('sizePicker');
 //adding submit event listener and calling makegrid() to make grid as per selected height and width.
 sizepicker.addEventListener('submit',function(e){
@@ -36,3 +37,5 @@ function makegrid()
 		})
 	}
 }
+const t1 = performance.now();
+console.log(t1-t0);
